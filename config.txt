@@ -3,4 +3,4 @@ owner=480563646854987796
 prefix=O
 game=Dead
 stayinchannel=true
-songinstatus=true
+songinstatus=false
